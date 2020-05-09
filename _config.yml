@@ -1,0 +1,28 @@
+title: Rapid Annotator 2.0
+description: The blog is about my updates on the progess on the Google Code of Summer's project, Rapid Annotator 2.0.
+
+show_downloads: true
+
+baseurl: "/GSoC20-Blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://gulshan-mittal.github.io" # change this to the base hostname & protocol for your site
+
+google_analytics:
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: jekyll-theme-cayman
+
+# social
+author: "Gulshan Kumar"
+image: /thumbnail-jumbo.png
+twitter:
+  # username: gulshankumar1210
+#  site:
+facebook:
+  #publisher: 1592372034171500
+  profile_id: gulshan.mittal.334
+  app_id: 1798910940422432 # cayman-blog
+  #authors: gulshan
+#  admins:
