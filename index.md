@@ -10,7 +10,7 @@ layout: home
 Hello everyone!
 
 It is a great pleasure to introduce myself to all of you. I am Gulshan Kumar from International Institute of 
-Information Technology, Hyderabad India. I am a 3rd year undergraduate student pursuing my B.Tech in Computer 
+Information Technology, Hyderabad India. I am a 4th year undergrad researcher pursuing my B.Tech in Computer 
 Science and M.S by research in IIIT Hyderabad, India. My specific research domain is Computer Vision, Robotic Vision and 
 Natural Language Processing.
 
