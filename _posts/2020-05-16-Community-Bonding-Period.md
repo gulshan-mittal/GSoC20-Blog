@@ -1,4 +1,4 @@
-![](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/GSOC.png?raw=true)
+![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/GSOC.png?raw=true)
 
 Working during Community Period is Awesome and is a great experience to me. This post includes my work which I have done during community period bonding i.e Pre-GSoC Phase Period. I utilized the community bonding period to discuss the deliverables with my mentors **Peter Uhrig**, **Anna Wilson**, and **Vaibhav Gupta**.
 
