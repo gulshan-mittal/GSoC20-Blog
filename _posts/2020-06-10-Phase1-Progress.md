@@ -31,3 +31,53 @@ Here is a summary of points that we would like to address this summer. This is n
 We are also installing a testing version of rapidannotator at Gallo account on Red Hen's Server. We have installed it partially as we are getting some errors in library versions nad MariaDB version.
 
 We will adress this also during this phase.
+
+## Work Done for Evaluation 1
+
+| S. No | Features Implemented | Status  |
+|----|-----|-----|
+| 1. |Fix: Multiple annotations occurring on the same item.|   ✅ |
+| 2.|Fix: Limited length of captions|   ✅ |
+| 3.| Made the annotation page more flexible |   ✅ |
+| 4.|Users can download csv with full concordances along with target captions |   ✅ |
+| 5.| Pagination of Annotation Results Page Enhanced|   ✅ |
+| 6.|Added feature of optional displaying the target captions.|   ✅ |
+| 7.|Delete All Files features in an experiment|   ✅ |
+| 8.|Fix the Undo Functionality. (Need to be check again when display order becomes random)|   ✅ |
+
+## A Walkthrough to the New Version of Rapid Annotator
+
+* Feature to delete all the Files for an experiment.
+
+![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/1.png?raw=true)
+
+* Display Caption are added on the Annotation Page so that user can just see to get some more context about the annotation process
+    * Feature of displaying the target caption is optional.
+
+    ![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/2.png?raw=true)
+
+    * User can highlight the text by selecting a bunch of it and then it becomes the target caption.
+
+    ![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/7.png?raw=true)
+
+    * Target Caption will be saved when the annotation has been completed for a single file and for all the annotation levels of that particular file.
+* Added Instruction field in the Annotaion Levels.
+
+![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/8.png?raw=true)
+
+* The below image is showing the annotation instruction on the annotation page.
+
+![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/6.png?raw=true)
+
+* You can direct navigate to the first and last page of the annotation results page.
+
+![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/3.png?raw=true)
+
+* Feature of Downloading the whole Concordance
+
+![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/4.png?raw=true)
+
+
+* Save results by annotator so that inter-annotator agreement can be calculated. 99999 as reserved word for “no answer yet”.
+
+![img](https://github.com/gulshan-mittal/GSoC20-Blog/blob/master/assets/images/5.png?raw=true)
