@@ -6,7 +6,7 @@ My mentor and I decided the **tasks** for this week given as :
 
 Apart from this, I have decided to add the following features
 * CRUD for the Admins
-    * Can see all the experiemnts
+    * Can see all the experiments
     * Can add user 
     * Delete User
     * Check experiments for each users
@@ -14,3 +14,11 @@ Apart from this, I have decided to add the following features
 * Added Gravatars for each user to make the UI attractive
 
 In this week and the next week I will be adding details of each feature along with screenshots as I completed them.
+
+### Caption Display for Unaligned Tagged Query Context
+
+So as per discussion with my mentor **Peter Uhrig**, we have decided to display some particular number of words per second relative to before time and after time. So I have made a button which takes user input the number of words they want to display per second for unaligned query contexts.
+
+The following is the screenshot for that:
+
+![img]()
