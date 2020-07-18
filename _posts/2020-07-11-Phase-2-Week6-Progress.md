@@ -1,4 +1,4 @@
-![img](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2-1024x439.jpg)
+<img src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2-1024x439.jpg" alt="img" style="zoom:40%;" />
 
 My mentor and I decided the **tasks** for this week given as :
 * Need to Discuss/Think more about the default Caption value

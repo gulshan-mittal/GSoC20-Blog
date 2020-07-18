@@ -1,4 +1,4 @@
-<img src="https://cutewallpaper.org/21/images-of-lord-voldemort/Insurance-agent-pretended-to-be-Voldermort-to-spook-clients.jpg" alt="img" style="zoom: 67%;" />
+<img src="https://cutewallpaper.org/21/images-of-lord-voldemort/Insurance-agent-pretended-to-be-Voldermort-to-spook-clients.jpg" alt="img" style="zoom: 57%;" />
 
 
 
