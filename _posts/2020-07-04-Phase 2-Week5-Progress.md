@@ -1,4 +1,4 @@
-![img](https://render.fineartamerica.com/images/rendered/default/tote-bag/images/artworkimages/medium/2/eat-sleep-code-repeat-developer-life-sassy-lassy-transparent.png?&targetx=64&targety=0&imagewidth=635&imageheight=763&modelwidth=763&modelheight=763&backgroundcolor=000000&orientation=0&producttype=totebag-18-18)
+<img src="https://render.fineartamerica.com/images/rendered/default/tote-bag/images/artworkimages/medium/2/eat-sleep-code-repeat-developer-life-sassy-lassy-transparent.png?&amp;targetx=64&amp;targety=0&amp;imagewidth=635&amp;imageheight=763&amp;modelwidth=763&amp;modelheight=763&amp;backgroundcolor=000000&amp;orientation=0&amp;producttype=totebag-18-18" alt="img" style="zoom:33%;" />
 
 My mentor and I decided the **tasks** for this week given as :
 * Study about the Tagged Context from the Concordances files for the concordance type experiemnt
